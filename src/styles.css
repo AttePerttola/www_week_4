@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+table {
+  font-family: sans-serif;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid;
+}
+td {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+}
